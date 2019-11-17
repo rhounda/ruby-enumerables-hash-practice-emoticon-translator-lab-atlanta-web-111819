@@ -3,7 +3,7 @@ require 'pry'
 
 
 def load_library
-  emon
+  emoticon
 end
 
 def get_japanese_emoticon
