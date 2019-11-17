@@ -4,7 +4,7 @@ require 'pry'
 
 def load_library(path)
   emoticons = yaml.load_file(path)
-  emon
+  emoti
 end
 
 def get_japanese_emoticon
