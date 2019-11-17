@@ -3,7 +3,7 @@ require 'pry'
 
 
 def load_library
-  emoticons = yaml
+  emoticons = yaml.load.
 end
 
 def get_japanese_emoticon
