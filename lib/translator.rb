@@ -6,7 +6,7 @@ def load_library(path)
   emoticons = yaml.load_file(path)
   emoticon_hash = hash.new
   
-  emoticon
+  emoticon_hash[]
 end
 
 def get_japanese_emoticon
